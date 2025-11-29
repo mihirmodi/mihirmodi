@@ -1,6 +1,6 @@
 # Hi, I'm Mihir
 
-I transitioned from a sales career into tech — now building products for my bootstrapped, single-person startup [@pawprintf](https://github.com/pawprintf).  
+I transitioned from a sales career into tech; now building products for my bootstrapped, single-person startup [@pawprintf](https://github.com/pawprintf).  
 I primarily work with **Flutter**, **Next.js**, **Django**, and **Firebase**.
 
 - Working to build, and ship multiple high-quality consumer products  
