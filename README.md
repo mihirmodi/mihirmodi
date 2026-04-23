@@ -1,12 +1,25 @@
 # Hi, I'm Mihir
 
-I transitioned from a sales career into tech; now building products for my bootstrapped, single-person startup [@pawprintf](https://github.com/pawprintf).  
-I primarily work with **Flutter**, **Next.js**, **Django**, and **Firebase**.
+## Shipped: 
+- [Rectangle One](https://rectangle.one)
+- [easyAstrology](https://easyastrology.pawprintf.com) (not maintained)
 
-- Working to build, and ship multiple high-quality consumer products  
-- Love Flutter. Almost everything I build should be cross-platform by default  
+## About me:
+- Building consumer apps
+- Currently I am working as a solo founder for my bootstrapped, single-person company, [@pawprintf](https://github.com/pawprintf)
+- Previously I was a sales leader with FMCG giants, including Mondelez (Cadbury, Oreo) and Beiersdorf (Nivea)
 
-Sign up for my upcoming Career Management Platform, [Rectangle One](https://rectangle.one)
+## Technologies: 
 
-### Connect
+### Comfortable:
+- Python /  Django
+- Flutter / Dart
+- JS / React / Next.js
+- BaaS (fb, sb)
+
+### Learning:
+- Elixir
+
+
+
 [LinkedIn](https://linkedin.com/in/mihirmodi) • [Twitter](https://twitter.com/mihirmodi)
