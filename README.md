@@ -15,6 +15,7 @@
 - Python /  Django
 - Flutter / Dart
 - JS / React / Next.js
+- C
 
 ### Learning:
 - Elixir
