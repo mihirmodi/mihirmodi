@@ -2,6 +2,7 @@
 
 ## Shipped: 
 - [Rectangle One](https://rectangle.one)
+- [Sliced Chat](https://slicedchat.com/about)
 - [easyAstrology](https://easyastrology.pawprintf.com) (not maintained)
 
 ## About me:
