@@ -1,9 +1,9 @@
 # Hi, I'm Mihir
 
 ## Shipped: 
-- [Rectangle One](https://rectangle.one)
-- [Sliced Chat](https://slicedchat.com/about)
-- [easyAstrology](https://easyastrology.pawprintf.com) (not maintained)
+- [Rectangle One](https://rectangle.one) [TS / React / Next.js, Firebase]
+- [Sliced Chat](https://slicedchat.com/about) [Elixir / BEAM / Phonenix LiveView / SQLite]
+- [easyAstrology](https://easyastrology.pawprintf.com) [Dart / Flutter, Firebase] (not maintained)
 
 ## About me:
 - Building consumer apps
