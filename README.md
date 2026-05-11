@@ -7,7 +7,7 @@
 
 ## About me:
 - Building consumer apps
-- Currently: Solo founder of my bootstrapped, single-person company, [@pawprintf](https://github.com/pawprintf)
+- Now: Solo founder of my bootstrapped, single-person company, [@pawprintf](https://github.com/pawprintf)
 - Previously: FMCG sales @ Mondelez (Cadbury, Oreo), Beiersdorf (Nivea)
 
 ## Technologies: 
