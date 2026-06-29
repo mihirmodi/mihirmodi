@@ -19,7 +19,7 @@
   - Privacy-frst tools that work in your browser: Tune guitars, merge PDFs, make QR codes...
   - Stack: TS, React, Vike
 
-- [_easyAstrology_](https://easyastrology.pawprintf.com) (not maintained)
+- [_easyAstrology_](https://easyastrology.pawprintf.com) (EOL)
   - Free Astrology app that combines Western and Vedic astrology
   - Stack: Flutter, Firebase
 
