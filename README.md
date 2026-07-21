@@ -1,7 +1,7 @@
 # Hi, I'm Mihir
 
 - I'm building consumer apps with a 'stay independent, avoid enshittification' philosophy
-- Founder, [@pawprintf](https://github.com/pawprintf) ([website](https://www.pawprintf.com))
+- Founder, [@pawprintf](https://github.com/pawprintf) ([pawprintf.com](https://www.pawprintf.com))
 - Previously: FMCG sales @ Mondelez (Cadbury, Oreo), Beiersdorf (Nivea)
 
 ## Shipped: 
