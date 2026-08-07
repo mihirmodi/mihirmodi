@@ -12,8 +12,8 @@
     
 - [_Sliced Chat_](https://slicedchat.com/about)
   - Public chatroom with a feed that you can be 'sliced' by topic of interest
-  - Free, anonymous first, no signup
-  - Stack: Elixir, BEAM, Phonenix LiveView, Supabase, GCP CE
+  - A technical showcase - runs on a 1GB RAM VM, typical memory footprint is under 150MB; not prompted or monetized
+  - Stack: Elixir, BEAM, Phonenix LiveView, GCP CE, Supabase
 
 - [_pawprintf tools_](https://www.pawprintf.com/tools)
   - Privacy-frst tools that work in your browser: Tune guitars, merge PDFs, make QR codes...
@@ -28,12 +28,13 @@
 
 ### Comfortable:
 - Python /  Django
-- Flutter / Dart
+- Flutter / Dart 
 - JS / React / Next.js
 - C
 
 ### Learning:
 - Elixir
+- Flame for Flutter
 
 
 
